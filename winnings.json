@@ -1,0 +1,144 @@
+{
+    "winnings": [
+        {
+            "id": "1",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Klifurhúsið",
+                    "description": "Gjafabréf í Klifurhúsið fyrir 2x manns + skór."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Ground Zero",
+                    "description": "Gjafabréf á Ground Zero fyrir tvo manns í 3 klst."
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Bogfimnisetrið",
+                    "description": "Gjafabréf í Bogfimisetrið. Innifalin leiga á boga, örvum og skotmarki auk grunnkennslu á búnaðinn af vönum kennara. Gildir upp í hálftíma fyrir einn."
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Shake and Pizza & Keiluhöllin",
+                    "description": "Gjafabréf í Shake and Pizza í keilu fyrir allt að sex manns ásamt tveimur pizzum."
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "count": "1",
+            "winings": [
+                {
+                    "company": "Blush",
+                    "description": "Gjafabréf í Blush af andvirði 5.000 kr."
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Lindex",
+                    "description": "Gjafabréf í Lindex af andvirði 5.000 kr.-"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "count": "3",
+            "winings": [
+                {
+                    "company": "OmNom",
+                    "description": "Vetraraskja OmNom (Súkkulaðipakki)"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "count": "1",
+            "winings": [
+                {
+                    "company": "Reðasafn Íslands",
+                    "description": "Gjafabréf í Reðursafnið fyrir tvo ásamt einu reðri."
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Minigarðurinn",
+                    "description": "Gjafabréf í Minigarðinn í golf."
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "count": "1",
+            "winings": [
+                {
+                    "company": "Hraðlestin",
+                    "description": "Gjafabréf í Hraðlestina (Veitingastaðinn)."
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "count": "4",
+            "winings": [
+                {
+                    "company": "Félagsstofnun Stúdenta",
+                    "description": "5.000 kr.- Gjafabréf á Stúdentakjallarann."
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Finnsson Bistro",
+                    "description": "7.000 kr.- Gjafabréf á Finnsson Bistro í Kringlunni. Er hægt að nota hvenær sem er."
+                }
+            ]
+        },
+        {
+            "id": "13",
+            "count": "2",
+            "winings": [
+                {
+                    "company": "Matarkjallarinn",
+                    "description": "Gjafabréf í Matarkjallarann fyrir í þriggja rétta hádegisverð að hætti kokksins fyrir tvo. Tilvalið upphaf á geggjuðum fössara."
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "count": "1",
+            "winings": [
+                {
+                    "company": "Elding",
+                    "description": "Gjafabréf í hvalaskoðun hjá Eldingu fyrir tvo."
+                }
+            ]
+        }
+    ]
+}
